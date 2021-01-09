@@ -1,2 +1,2 @@
 # TIL
-Today I Learned
+새로 알게 되었거나 기록을 남길만한 내용 정리 
